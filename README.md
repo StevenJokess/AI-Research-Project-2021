@@ -1,4 +1,4 @@
-# AI-Research-Projects-2021
+# AI-Research-Project-2021
 
 -----------------
 #Related Links:
