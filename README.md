@@ -1,9 +1,8 @@
 # AI-Research-Projects-2021
 
-Application of AI
-Artificial Intelligence has various applications in today's society. It is becoming essential for today's time because it can solve complex problems with an efficient way in multiple industries, such as Healthcare, entertainment, finance, education, etc. AI is making our daily life more comfortable and fast.
+Goal: Artificial Intelligence has various applications in today's society. It is becoming essential for today's time because it can solve complex problems with an efficient way in multiple industries, such as Healthcare, entertainment, finance, education, Space Industry , Agriculture etc. AI is making our daily life more comfortable and fast.The aim of this Research Project is to solving Real World Complex Problems Using Machine Intelligence.
 
-Following are some sectors which have the application of Artificial Intelligence:
+Following are some sectors which have the application of Artificial Intelligence: Application of AI
 
 1. AI in Astronomy
 Artificial Intelligence can be very useful to solve complex universe problems. AI technology can be helpful for understanding the universe such as how it works, origin, etc.
