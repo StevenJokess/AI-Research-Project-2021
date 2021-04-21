@@ -1,5 +1,13 @@
 # AI-Research-Projects-2021
 
+-----------------
+#Related Links:
+https://www.researchgate.net/project/AI-Research-Project-2021
+
+https://github.com/sohel-ccse?tab=projects
+---------------------
+
+
 Goal: Artificial Intelligence has various applications in today's society. It is becoming essential for today's time because it can solve complex problems with an efficient way in multiple industries, such as Healthcare, entertainment, finance, education, Space Industry , Agriculture etc. AI is making our daily life more comfortable and fast.The aim of this Research Project is to solving Real World Complex Problems Using Machine Intelligence.
 
 Following are some sectors which have the application of Artificial Intelligence: Application of AI
